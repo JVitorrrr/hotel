@@ -1,0 +1,102 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.topo2{
+    display: inline-block
+}
+.topo3{
+    display: inline-block;
+    align-items: center;
+    height: 50px;
+    padding-left: 27%;
+    padding-top: 50px;
+}
+.topo3 a{
+    text-decoration: none;
+    padding-left: 10px;
+}
+.topo{
+    display: flex;
+    flex-direction: row;
+    padding: 25px;
+    padding-left: 20%;
+    padding-right: 10%;
+    height: 120px;
+    background-color: #2f86d6;
+    padding-bottom: 40px;
+}
+.espaco{
+    padding: 40px;
+}
+.topo p{
+    color: white;;
+}
+.topo img{
+    height: 100px;
+    padding: 20px;
+}
+.tabela1{
+    border-collapse: collapse;
+
+
+}
+.tabela1 th {
+    border: .1px solid rgb(129, 124, 124);
+    text-align: center;
+    width: 15vw;
+    line-height: 30px;
+}
+.tabela1 td {
+    border: .1px solid rgb(129, 124, 124);
+    text-align: center;
+    width: 15vw;
+    line-height: 50px;
+}
+.cinza{
+    text-align: left;
+}
+.tabelas{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 90px;
+}
+.tabela1 p{
+    color: gray;
+    font-size: 14px;
+}
+.cinza, .cinza1{
+    background-color: rgb(204, 195, 195);
+}
+.tabela{
+    align-items: center;
+    padding-right: 20%;
+}
+.marcadorazul{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    background-color: #2f86d6;
+    border-radius: 100px;
+}
+.ultimo{
+    display: flex;
+    padding: 25px;
+    padding-left: 20%;
+    padding-right: 10%;
+    height: 120px;
+    background-color: #2f86d6;
+    padding-bottom: 40px;
+}
+.ultimo img{
+    width: 150px;
+}
+.final{
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 18px;
+}
+.secaorodape{
+    display: flex;
+    flex-direction: column;
+}
